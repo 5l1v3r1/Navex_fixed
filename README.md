@@ -5,5 +5,5 @@ more detail view
 
 <https://UUUUnotfound.github.io/2020/05/03/复活Navex-使用图查询进行代码分析/index.html>
 
-<img src="README/image-20200515132953791.png" alt="image-20200515132953791" style="zoom:30%;" />
+![image-20200515133606522](README/image-20200515133606522.png)
 
