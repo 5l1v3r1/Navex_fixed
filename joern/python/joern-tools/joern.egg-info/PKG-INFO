@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: joern
+Version: 0.3
+Summary: Tools for code analysis based on joern.
+Home-page: http://github.com/octopus-platform/joern-tools/
+Author: Fabian Yamaguchi
+Author-email: f.yamaguchi@tu-braunschweig.de
+License: GPLv3
+Description: joern-tools
+        ===========
+        
+        Some simple code analysis tools build on top of joern
+        
+        Installation
+        ===
+        
+        See the installation instructions [here](http://joern.readthedocs.org/en/latest/installation.html#installing-joern-tools).
+        
+Platform: UNKNOWN
